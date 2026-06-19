@@ -52,8 +52,8 @@
 
 **Start here →** [**pre-class.md**](./pre-class.md)
 
+- Watch the intro video
 - Run `notebooks/01_monday_morning.ipynb` (~15 min) — Marcus's brief, exploring the data without labels
-- Watch two short videos (StatQuest on PCA + K-Means)
 - Try three mini-exercises with sample answers
 
 ---
