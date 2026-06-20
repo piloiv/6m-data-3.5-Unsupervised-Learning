@@ -26,8 +26,8 @@ conda --version
 ## 2. Clone this repository
 
 ```bash
-git clone https://github.com/flexfengfeng/dsai-m3-l05-learner.git
-cd dsai-m3-l05-learner
+git clone https://github.com/su-ntu-ctp/6m-data-3.5-Unsupervised-Learning.git
+cd 6m-data-3.5-Unsupervised-Learning
 ```
 
 ---
